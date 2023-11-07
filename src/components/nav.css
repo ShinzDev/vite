@@ -1,0 +1,49 @@
+
+body
+{
+    margin: 0;
+}
+.nav_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 3rem;
+    margin-right: 15rem;
+
+
+}
+
+.start{
+    list-style: none;
+    background: linear-gradient(180deg, #2E2E2E 11.9%, #2E2E2E 59.52%);
+    color: wheat;
+    padding: 10px;
+    border-radius: 30px;
+    
+
+}
+/* ==================button=========================== */
+
+.btn_section {
+    gap: 1rem;
+    display: flex;
+  }
+  
+.btn_section > button {
+
+    padding: 0  1.5rem;
+    height: 36px; 
+    border-radius: 30px;
+    border: none;
+    background-color: #2e2e2e;
+    color:#fff;
+    font-family: sans-serif              ;
+  }
+  
