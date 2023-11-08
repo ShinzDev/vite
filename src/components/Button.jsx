@@ -1,9 +1,9 @@
 import './nav.css'
-
+import '../App.css'
 const Button = () => {
   return (
     <div className='btn_section'>
-      <button >
+      <button  >
         @ get it on Iphone
       </button>
       {/* <br /><br /> */}

@@ -9,8 +9,7 @@
     background: linear-gradient(
 360deg,
     #ffbe4d 7.73%,
-    #ffa500 48.91%,
-    #ff0000 94.62%
+    #ffa500 48.91%
   );
     height: 700px;
 }
@@ -62,16 +61,6 @@
 
 /* ==================Buttons=================== */
 
-.btn_section>button 
-{
-    padding: 0 1.5rem;
-    height: 36px;
-    border-radius: 30px;
-    border: none;
-    background-color: #2e2e2e;
-    color: #ff0606;
-}
-
 /* ================ABOUT US SECTION=============== */
 .outter_radius 
 {
@@ -85,7 +74,7 @@
     display: flex;
     justify-content: center;
     gap: 2rem;
-
+    
 }
 
 .inner_radius_text
@@ -93,6 +82,7 @@
     width: 20rem;
     /* border: 1px solid black; */
     align-items: start;
+    margin-top: 40px;
 
     
 

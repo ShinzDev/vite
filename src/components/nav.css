@@ -7,7 +7,8 @@ body
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
     
 }
 ul{
@@ -18,6 +19,17 @@ ul{
     margin-right: 15rem;
 
 
+}
+
+li
+{
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    color:#ffa500 ;
 }
 
 .start{
@@ -44,6 +56,6 @@ ul{
     border: none;
     background-color: #2e2e2e;
     color:#fff;
-    font-family: sans-serif              ;
+    font-family: sans-serif;
   }
   
